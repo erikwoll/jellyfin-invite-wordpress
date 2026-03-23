@@ -42,14 +42,7 @@ A WordPress theme for invite-based Jellyfin account registration.
 5. Save settings.
 6. Create a new invite.
 
-## Suggested versioning
 
-This project uses Semantic Versioning with pre-release tags.
 
-Examples:
-- `0.7.0-beta.1`
-- `0.7.0-beta.2`
-- `0.7.0`
-- `0.7.1`
-- `0.8.0`
+
 
