@@ -17,9 +17,3 @@ This is the first official beta release of Jellyfin Invite Theme.
 - Older invites created before plain-token storage may not show a full invite link
 - This is still a beta release and should be tested before production use
 
-## Recommended next steps
-
-- Add screenshots to the GitHub repo
-- Choose and add a license
-- Test on a clean multisite install
-- Prepare `v0.7.0-beta.2` after feedback
