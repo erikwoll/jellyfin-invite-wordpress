@@ -26,6 +26,9 @@ A WordPress theme for invite-based Jellyfin account registration.
 ```text
 [jellyfin_invite_signup]
 ```
+## 📸 Screenshot
+
+![Jellyfin Invite Theme Admin Panel](assets/screenshot.png)
 
 ## Installation
 
