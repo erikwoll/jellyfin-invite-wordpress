@@ -54,6 +54,5 @@ Examples:
 - `0.8.0`
 
 ## License
+MIT
 
-Choose a license before publishing publicly on GitHub.
-MIT is a simple option for an open-source release.
